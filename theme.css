@@ -1,0 +1,31 @@
+.done {
+    color: gray;
+    text-decoration: line-through;
+}
+
+.wrap {
+    width: 300px;
+    background-color: aliceblue;
+
+}
+
+.todo-form {
+    padding-top: 10px;
+}
+
+#id-div-container {
+    margin-top: 10px;
+    border: 3px dashed cadetblue;
+}
+
+.todo-cell {
+    margin: 10px;
+}
+
+
+.button {
+    border: 1px solid cadetblue;
+    border-radius: 5px;
+    background-color: lightgoldenrodyellow;
+    width: 50px;
+}
